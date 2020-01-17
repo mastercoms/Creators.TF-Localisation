@@ -74,7 +74,7 @@
     "Footer_Palette_Copyright_Text": "Palette Studios, the Palette Studios logo, creators.tf are owned by Palette Studios.",
     "Terms_Of_Service": "Terms of Service",
     "Privacy_Policy": "Privacy Policy",
-    "Footer_Valve_Copyright": "Valve, the Valve logo, Steam, the Steam logo, Team Fortress, the Team Fortress logo are trademarks and/or registered trademarks of Valve Corporation. We are not affliated with Valve Corporation. All rights belong to Valve Corporation.",
+    "Footer_Valve_Copyright": "Valve, the Valve logo, Steam, the Steam logo, Team Fortress, the Team Fortress logo are trademarks and/or registered trademarks of Valve Corporation. We are not affiliated with Valve Corporation. All rights belong to Valve Corporation.",
 
     "TFPage_Promo_Input_SteamID": "Input your Steam ID or your Steam Profile address",
     "TFPage_Promo_Select_Opt0": "Indicate to whom you would refer yourself...",
@@ -105,7 +105,7 @@
     "Quickplay_Gamemode_CTF_Brief": "Steal the enemy's intelligence and get it back to your base!",
     "Quickplay_Gamemode_CP_Title": "Control Point",
     "Quickplay_Gamemode_CP_Brief": "Capture and defend a series of control points. Capture them all to win!",
-    "Quickplay_Gamemode_PL_Title": "Capture The Flag",
+    "Quickplay_Gamemode_PL_Title": "Payload",
     "Quickplay_Gamemode_PL_Brief": "Push a cart full of explosives to wreak havoc on your enemies!",
     "Quickplay_Gamemode_KOTH_Title": "King of The Hill",
     "Quickplay_Gamemode_KOTH_Brief": "Show your enemies who is the boss while fighting over a single capture point.",
