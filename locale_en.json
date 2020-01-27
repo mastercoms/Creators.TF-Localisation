@@ -12,14 +12,31 @@
     "PreMain_Nav_Blog": "Blog",
     "PreMain_Nav_Updates": "Updates",
     "PreMain_Nav_News": "News",
+    "PreMain_Nav_Donate": "Donate",
     "Page_Title_Main": "Main",
+    "Page_Title_Settings": "Settings",
     "PreMain_Nav_Other": "Other",
     "PreMain_Button_Play": "Find a Game",
     "Panels_Monthly_Title": "Unique players this month",
     "Panels_Links_Title": "Useful links",
+    "Panels_LatestUpdates_Title": "Latest updates/Blog posts",
     "Panels_Locale_Title": "Language",
-
-    "Panels_Locale_Title_AssetPack": "Download the asset pack for faster load times",
+    "Panels_Title_AssetPack": "Download the asset pack for faster load times",
+    
+    "General_Inventory": "Inventory",
+    "General_Loadout": "Loadout",
+    
+    "General_Button_ApplyChanges": "Apply Changes",
+    "General_Button_Connect": "Connect",
+    "General_Button_Use": "Use",
+    "General_Button_Delete": "Delete",
+    "General_Button_Download": "Download",
+    "General_Button_BackToProfile": "Back to Profile",
+    "General_Button_BackToLoadout": "Back to Loadout",
+    "General_Button_OpenInventory": "Open Inventory",
+    "General_Button_OpenProfile": "Open Profile",
+    "General_Button_OpenLoadout": "Open Loadout",
+    "General_Button_OpenStore": "Open Store",
 
     "Navigation_Next": "Next",
     "Navigation_Back": "Back",
@@ -30,6 +47,13 @@
 
     "Video_Author": "Author",
     "Video_Uploaded": "Uploaded",
+    
+    "SocialMedia_Steam": "Steam",
+    "SocialMedia_Twitter": "Twitter",
+    "SocialMedia_Discord": "Discord",
+    "SocialMedia_Patreon": "Patreon",
+    "SocialMedia_YouTube": "YouTube",
+    "SocialMedia_Twitch": "Twitch",
 
     "Modal_Login_Title": "AUTHORIZATION",
     "Modal_Login_P1": "It looks like you're not authorized yet. In order to use features on our website you need to give us some information about you, which is available publicly on your Steam Profile page.",
@@ -120,13 +144,6 @@
     "TFClass_Sniper_Name": "Sniper",
     "TFClass_Spy_Name": "Spy",
 
-    "Economy_Button_Open_Profile": "Open Profile",
-    "Economy_Button_Open_Loadout": "Open Loadout",
-    "Economy_Button_Open_Store": "Open Store",
-    "Economy_Button_Use_Item": "Use",
-    "Economy_Button_Delete_Item": "Delete",
-    "Economy_Button_Open_Inventory": "Open Inventory",
-
     "Loadout_Slot_Primary": "Primary",
     "Loadout_Slot_Secondary": "Secondary",
     "Loadout_Slot_Melee": "Melee",
@@ -134,7 +151,34 @@
     "Loadout_Slot_Wearable": "Wearable",
     "Loadout_Slot_Action": "Action",
     "Loadout_Class": "Class Loadout",
-
+    
+    "Settings_ProfileSettings": "Profile Settings",
+    "Settings_Profile": "Profile",
+    "Settings_Privacy": "Privacy",
+    "Settings_Connections": "Connections",
+    
+    "ProfileSettings_EditYourBio": "Edit your bio",
+    "ProfileSettings_ChooseYourBadge": "Choose your badge",
+    "ProfileSettings_PrivacyPublic": "Public - Everyone can see",
+    "ProfileSettings_PrivacyPrivate": "Private - No one can see (other than you)",
+    
+    "Settings_Connections_Steam_Description": "Steam Description Here",
+    "Settings_Connections_Twitter_Description": "Twitter Description Here",
+    "Settings_Connections_Discord_Description": "Discord Description Here",
+    "Settings_Connections_Patreon_Description": "Patreon Description Here",
+    "Settings_Connections_YouTube_Description": "YouTube Description Here",
+    
+    "DonatePage_SupportCTF": "Support Creators.TF",
+    "DonatePage_SupportPatreonGetRewards": "Support us on Patreon and get rewards.",
+    "DonatePage_SupportPatreonGetRewardsDescription": "We want to keep all the content absolutely free for every player, but server support is quite expensive. That is why we ask you to help us with server rental. You can become our patron and get some bonuses, as well as leave your mark on the board of honor. Go to our <a href='/patreon' target='_blank'>Patreon</a> and become our sponsor to help develop the project.",
+    "DonatePage_UnlinkedAccountText1": "If you can't see your donation here -- you need to manually connect your Patreon account. ",
+    "DonatePage_UnlinkedAccountText2": " generous patrons don't have their Patreon account linked to Creators.TF.",
+    "DonatePage_PatreonProfile": "Patreon Profile",
+    "DonatePage_PatreonConnectionTitle": "Patreon Connection",
+    "DonatePage_PatreonConnectionDescription": "<a href='/patreon' target='_blank'>Support us on Patreon</a> and connect your account to get different perks and leave your mark in the hall of fame.",
+    "DonatePage_HallOfFameTitle": "Hall of Fame",
+    "DonatePage_HallOfFameDescription": "<b>Notes:</b> This section is not updated instantly. It may take up to 24 hours for your donation to be displayed here. You need to have your Patreon account connected to Creators.TF in order for us to indentify you and to display you on this list.",
+    
     "TFPage_SelfmadeSmissmas_container01maintext": "Introducing the Self-Made Smissmas update! This is the first update we've put out, and hopefully you enjoy it as much as we do, because we really like it! This update has been a ton of work from the developers, artists, and potted plant of the Creators.TF team. We've been so busy with this that we hadn't even decided on a name for the update until it was practically finished. It's okay though, who needs a good name when the content can speak for itself?",
     "TFPage_SelfmadeSmissmas_container07descriptiontext": "First ever introduced by community!",
     "TFPage_SelfmadeSmissmas_container08inventorytext": "If we're adding new items, there needs to be a place to put them, right? This is where the <b>Creators.TF Inventory</b> comes in!<br><br>Every item you earn through our servers will be stored on your site-based inventory. Right now we support two types of items: <b><i>Cosmetics</i></b> and <b><i>Keyless Crates</i></b>, which gives you a random cosmetic when you open them.<br><br>Opening these keyless crates give you a chance to get unusual versions of these cosmetics. <i style='color:#888;'>(only official unusual effects are present at the moment)</i>.",
