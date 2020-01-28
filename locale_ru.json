@@ -22,6 +22,7 @@
     "Panels_LatestUpdates_Title": "Latest updates/Blog posts",
     "Panels_Locale_Title": "Язык",
     "Panels_Title_AssetPack": "Скачать пак ассетов для более быстрой загрузки",
+    "Links_ServerStatus": "Server Status",
 
     "General_Inventory": "Inventory",
     "General_Loadout": "Loadout",
@@ -157,6 +158,7 @@
     "Settings_Privacy": "Privacy",
     "Settings_Connections": "Connections",
     
+    "Profile_HasPosts": "Записи автора",
     "ProfileSettings_EditYourBio": "Edit your bio",
     "ProfileSettings_ChooseYourBadge": "Choose your badge",
     "ProfileSettings_PrivacyPublic": "Public - Everyone can see",
@@ -178,6 +180,12 @@
     "DonatePage_PatreonConnectionDescription": "<a href='/patreon' target='_blank'>Support us on Patreon</a> and connect your account to get different perks and leave your mark in the hall of fame.",
     "DonatePage_HallOfFameTitle": "Hall of Fame",
     "DonatePage_HallOfFameDescription": "<b>Notes:</b> This section is not updated instantly. It may take up to 24 hours for your donation to be displayed here. You need to have your Patreon account connected to Creators.TF in order for us to indentify you and to display you on this list.",
+    
+    "ServerList_Title": "Select a server to play on with new community created content!",
+    "ServerList_Region": "Region",
+    "ServerList_Hostname": "Hostname",
+    "ServerList_Map": "Map",
+    "ServerList_LastHeartbeat": "Last Heartbeat",
 
     "TFPage_SelfmadeSmissmas_container01maintext": "Представляем вам... Шмождество Ручной Сборки! Это первое обновление, которое мы выпустили, и, надеюсь, оно вам понравится так же, как и нам, потому что оно нам действительно нравится! Это обновление было тонной работой для разработчиков, художников и комнатных растений команды Creators.TF. Мы были настолько были заняты работой над обновлением, что даже не определились с названием самого обновления, пока, конечно-же не доделали его. Конечно, иметь хорошее название хорошо, но кому действительно нужно хорошее название, когда обновление говорит само за себя?",
     "TFPage_SelfmadeSmissmas_container07descriptiontext": "Впервые представленное сообществом!",

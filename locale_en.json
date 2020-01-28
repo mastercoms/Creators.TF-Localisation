@@ -22,6 +22,7 @@
     "Panels_LatestUpdates_Title": "Latest updates/Blog posts",
     "Panels_Locale_Title": "Language",
     "Panels_Title_AssetPack": "Download the asset pack for faster load times",
+    "Links_ServerStatus": "Server Status",
     
     "General_Inventory": "Inventory",
     "General_Loadout": "Loadout",
@@ -157,6 +158,7 @@
     "Settings_Privacy": "Privacy",
     "Settings_Connections": "Connections",
     
+    "Profile_HasPosts": "Author Posts",
     "ProfileSettings_EditYourBio": "Edit your bio",
     "ProfileSettings_ChooseYourBadge": "Choose your badge",
     "ProfileSettings_PrivacyPublic": "Public - Everyone can see",
@@ -178,6 +180,12 @@
     "DonatePage_PatreonConnectionDescription": "<a href='/patreon' target='_blank'>Support us on Patreon</a> and connect your account to get different perks and leave your mark in the hall of fame.",
     "DonatePage_HallOfFameTitle": "Hall of Fame",
     "DonatePage_HallOfFameDescription": "<b>Notes:</b> This section is not updated instantly. It may take up to 24 hours for your donation to be displayed here. You need to have your Patreon account connected to Creators.TF in order for us to indentify you and to display you on this list.",
+    
+    "ServerList_Title": "Select a server to play on with new community created content!",
+    "ServerList_Region": "Region",
+    "ServerList_Hostname": "Hostname",
+    "ServerList_Map": "Map",
+    "ServerList_LastHeartbeat": "Last Heartbeat",
     
     "TFPage_SelfmadeSmissmas_container01maintext": "Introducing the Self-Made Smissmas update! This is the first update we've put out, and hopefully you enjoy it as much as we do, because we really like it! This update has been a ton of work from the developers, artists, and potted plant of the Creators.TF team. We've been so busy with this that we hadn't even decided on a name for the update until it was practically finished. It's okay though, who needs a good name when the content can speak for itself?",
     "TFPage_SelfmadeSmissmas_container07descriptiontext": "First ever introduced by community!",
@@ -205,5 +213,5 @@
     "TFPage_SelfmadeSmissmas_faq7question": "How can I complete the contract?",
     "TFPage_SelfmadeSmissmas_faq7answer": "Hit the Contracker tab on the main website's page and then choose a contract you want to complete. We made it as similiar with official TF2 Contracker as possible.",
     "TFPage_SelfmadeSmissmas_faq8question": "I have a different question. Who can I contact?",
-    "TFPage_SelfmadeSmissmas_faq8answer": "We have a <a href='/discord' target='_blank'>Discord server</a>. If you don't use Discord - we have <a href='/twitter' target='_blank'>Twitter</a>. If you don't use Twitter - then we have a <a href='/steam' target='_blank'>Steam Group</a>. And if you don't use Steam for some reason... contact us on <a href='mailto://support@creators.tf'>support@creators.tf</a>."
+    "TFPage_SelfmadeSmissmas_faq8answer": "We have a <a href='/discord' target='_blank'>Discord server</a>. If you don't use Discord - we have <a href='/twitter' target='_blank'>Twitter</a>. If you don't use Twitter - then we have a <a href='/steam' target='_blank'>Steam Group</a>. And if you don't use Steam for some reason... Contact us on <a href='mailto://support@creators.tf'>support@creators.tf</a>."
 }
