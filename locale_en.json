@@ -27,6 +27,17 @@
     "Navigation_Back": "Back",
     "Navigation_Next": "Next",
 
+    "Error_Redirect": "You should've been redirected, but something went wrong.",
+    "Error_Contact_Us": "Contact us to get help at",
+    "Error_404_Title": "Content Not Found",
+    "Error_404_Content": "The requested material, unfortunately, was not found. Try changing the page address or return to the <a href='/'>main page.</a>",
+    "Error_403_Title": "No Permission",
+    "Error_403_Content": "The requested material is unfortunately not available to you. You do not have the required permission to access this material. Try to <a href='/login'>Sign In through Steam</a>. Maybe that will help.",
+    "Error_418_Title": "I'm a Teapot!",
+    "Error_418_Content": "You messed this up. Shame on you. P.S. Yeah this is a <a href='https://wikipedia.org/wiki/List_of_HTTP_status_codes#418'>real</a> error.",
+    "Error_Not_Found_Title": "Nothing Found",
+    "Error_Not_Found_Content": "If you entered a web address please check it was correct. You can also check out our homepage to get information you need.",
+
     "Panels_Monthly_Title": "Unique players this month",
     "Panels_Links_Title": "Useful links",
     "Panels_Links_Steam": "Steam Group",
@@ -193,6 +204,52 @@
     "TFPage_Promo_P3": "In these updates we will add community content through special server modifications. Thus you will be able to try out community created maps, cosmetics, weapons, taunts, skins, unusual effects and much more! You will also be able to get many of those through community created contracts system, which is very much similar to what Valve had presented to us. The process of reviewing community created content is described in the diagram below:",
     "TFPage_Promo_P4": "This project is a great undertaking. That is why we address you, the TF2 community! We need the help of everyone who can and want to do something in order to extend the life of our beloved game! If you think you can help, and most importantly: want to – fill out the form below. If we decide that your application suits our requirements, we will contact you personally.</br></br>The more people respond to our request, the higher the chance that this project will see the light of the day. Do not hesitate! </br></br> We would also be very grateful if you tell your friends and other TF2 community creators about us!",
 
+    "Quickplay_Title": "Community Quickplay",
+    "Quickplay_SubTitle": "Map Selection",
+    "Quickplay_MapsLabel": "maps selected",
+    "Quickplay_Group_Core_Title": "Core Game Modes",
+    "Quickplay_Gamemode_CTF_Title": "Capture The Flag",
+    "Quickplay_Gamemode_CTF_Brief": "Steal the enemy's intelligence and get it back to your base!",
+    "Quickplay_Gamemode_CP_Title": "Control Point",
+    "Quickplay_Gamemode_CP_Brief": "Capture and defend a series of control points. Capture them all to win!",
+    "Quickplay_Gamemode_PL_Title": "Payload",
+    "Quickplay_Gamemode_PL_Brief": "Push a cart full of explosives to wreak havoc on your enemies!",
+    "Quickplay_Gamemode_KOTH_Title": "King of The Hill",
+    "Quickplay_Gamemode_KOTH_Brief": "Show your enemies who is the boss while fighting over a single capture point.",
+
+    "TFClass_Scout_Name": "Scout",
+    "TFClass_Soldier_Name": "Soldier",
+    "TFClass_Pyro_Name": "Pyro",
+    "TFClass_Demo_Name": "Demoman",
+    "TFClass_Heavy_Name": "Heavy",
+    "TFClass_Engineer_Name": "Engineer",
+    "TFClass_Medic_Name": "Medic",
+    "TFClass_Sniper_Name": "Sniper",
+    "TFClass_Spy_Name": "Spy",
+
+    "Loadout_Slot_Primary": "Primary",
+    "Loadout_Slot_Secondary": "Secondary",
+    "Loadout_Slot_Melee": "Melee",
+    "Loadout_Slot_PDA": "PDA",
+    "Loadout_Slot_Wearable": "Wearable",
+    "Loadout_Slot_Action": "Action",
+    "Loadout_Class": "Class Loadout",
+
+    "Settings_ProfileSettings": "Profile Settings",
+    "Settings_Profile": "Profile",
+    "Settings_Privacy": "Privacy",
+    "Settings_Connections": "Connections",
+
+    "ProfileSettings_EditYourBio": "Edit your bio",
+    "ProfileSettings_ChooseYourBadge": "Choose your badge",
+    "ProfileSettings_PrivacyPublic": "Public - Everyone can see",
+    "ProfileSettings_PrivacyPrivate": "Private - No one can see (other than you)",
+
+    "Settings_Connections_Steam_Description": "Steam Description Here",
+    "Settings_Connections_Twitter_Description": "Twitter Description Here",
+    "Settings_Connections_Discord_Description": "Discord Description Here",
+    "Settings_Connections_Patreon_Description": "Patreon Description Here",
+    "Settings_Connections_YouTube_Description": "YouTube Description Here",
 
     "TFPage_SelfmadeSmissmas_container01maintext": "Introducing the Self-Made Smissmas update! This is the first update we've put out, and hopefully you enjoy it as much as we do, because we really like it! This update has been a ton of work from the developers, artists, and potted plant of the Creators.TF team. We've been so busy with this that we hadn't even decided on a name for the update until it was practically finished. It's okay though, who needs a good name when the content can speak for itself?",
     "TFPage_SelfmadeSmissmas_container07descriptiontext": "First ever introduced by community!",
@@ -220,5 +277,5 @@
     "TFPage_SelfmadeSmissmas_faq7question": "How can I complete the contract?",
     "TFPage_SelfmadeSmissmas_faq7answer": "Hit the Contracker tab on the main website's page and then choose a contract you want to complete. We made it as similiar with official TF2 Contracker as possible.",
     "TFPage_SelfmadeSmissmas_faq8question": "I have a different question. Who can I contact?",
-    "TFPage_SelfmadeSmissmas_faq8answer": "We have a <a href='/discord' target='_blank'>Discord server</a>. If you don't use Discord - we have <a href='/twitter' target='_blank'>Twitter</a>. If you don't use Twitter - then we have a <a href='/steam' target='_blank'>Steam Group</a>. And if you don't use Steam for some reason... contact us on <a href='mailto://support@creators.tf'>support@creators.tf</a>."
+    "TFPage_SelfmadeSmissmas_faq8answer": "We have a <a href='/discord' target='_blank'>Discord server</a>. If you don't use Discord - we have <a href='/twitter' target='_blank'>Twitter</a>. If you don't use Twitter - then we have a <a href='/steam' target='_blank'>Steam Group</a>. And if you don't use Steam for some reason... Contact us on <a href='mailto://support@creators.tf'>support@creators.tf</a>."
 }
