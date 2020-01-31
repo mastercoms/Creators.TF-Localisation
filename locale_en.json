@@ -60,6 +60,7 @@
     "Economy_Items_Use_Scrap": "Scrap",
     "Economy_Items_Use_Title": "Use",
     "Economy_Items_Use_Action_Unbox": "Unbox",
+    "Economy_Items_Use_Action_Scrap": "Scrap",
 
     "Page_Donate_Title": "Support Creators.TF",
     "Page_Donate_Embed_Title": "Support us on Patreon and get rewards.",
@@ -77,6 +78,8 @@
 
     "Page_OpenCase_Crate_Contents_Warning": "This crate may contain one of this items:",
     "Page_OpenCase_Button_Unbox": "UNBOX THIS CRATE",
+
+    "Page_Scrap_Button_Scrap": "Scrap to manncoins",
 
     "Page_Server_List_Timeout_Message": "This server may be experiencing connectivity issues.",
     "Page_Server_List_Heartbeat_Tooltip": "This is the amount of time that has passed since the last server status check.&#10;Typically, the time should not exceed 30 seconds.&#10;If it exceeds, it means the server is probably experiencing connection problems.",
@@ -103,6 +106,8 @@
     "Profile_Posts_By_Author": "Author's posts",
     "Profile_Fake_Profile_Title": "This profile is not associated with Steam.",
     "Profile_Fake_Profile_Text": "This means this is either a community blog profile, which is managed by community members or a bot account.",
+
+    "Post_By_Author": "Post by",
 
     "Economy_Quality_Normal_Name": "Normal",
     "Economy_Quality_Normal_Prefix": "",
