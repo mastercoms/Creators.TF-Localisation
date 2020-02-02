@@ -26,6 +26,7 @@
 
     "Navigation_Back": "Anterior",
     "Navigation_Next": "Próximo",
+    "Navigation_Page_Index": "Página",
 
     "Error_Redirect": "Você deveria ter sido redirecionado, mas algo de errado ocorreu.",
     "Error_Contact_Us": "Entre em contato conosco para ter ajuda",
@@ -59,6 +60,7 @@
     "Economy_Items_Use_Scrap": "Sucata",
     "Economy_Items_Use_Title": "Usar",
     "Economy_Items_Use_Action_Unbox": "Abrir",
+    "Economy_Items_Use_Action_Scrap": "Sucatear",
 
     "Page_Donate_Title": "Apoie Creators.TF",
     "Page_Donate_Embed_Title": "Nos apoie no Patreon e ganhe recompensas.",
@@ -76,6 +78,8 @@
 
     "Page_OpenCase_Crate_Contents_Warning": "Essa caixa pode conter um desses itens:",
     "Page_OpenCase_Button_Unbox": "ABRIR ESTA CAIXA",
+    
+    "Page_Scrap_Button_Scrap": "Transformar em Mann Moedas",
 
     "Page_Server_List_Timeout_Message": "Este servidor pode estar passando por problemas de conexão.",
     "Page_Server_List_Heartbeat_Tooltip": "Essa é a quantidade de tempo que passou desde a última verificação de status do servidor.&#10;Normalmente, esse tempo não deve ultrapassar 30 segundos.&#10;Se ultrapassar, isso significa quee eo servidor está sofrendo problemas de conexão.",
@@ -102,6 +106,8 @@
     "Profile_Posts_By_Author": "Publicações do Autor",
     "Profile_Fake_Profile_Title": "Este perfil não é associado com a Steam.",
     "Profile_Fake_Profile_Text": "Isso significa que esta conta pode ser um perfil de blog da comunidade, que é gerenciado por membros da comunidade, ou a conta de um bot.",
+    
+    "Post_By_Author": "Postado por",
 
     "Economy_Quality_Normal_Name": "Normal",
     "Economy_Quality_Normal_Prefix": "",
