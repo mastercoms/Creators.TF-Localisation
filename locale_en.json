@@ -65,10 +65,10 @@
 
     "Page_Donate_Title": "Support Creators.TF",
     "Page_Donate_Embed_Title": "Support us on Patreon and get rewards.",
-    "Page_Donate_Embed_Summary": "We want to keep all of our content 100% free for every player, but server support is quite expensive. That is why we ask you to help us with server rental. You can become a patron and get exclusive bonuses, as well as leave your mark on the board of honor. Visit our <a href='/patreon' target='_blank'>Patreon</a> to help develop the project.",
+    "Page_Donate_Embed_Summary": "We want to keep all of our content 100% free for every player, but server support is quite expensive. That's why we ask you to help us with server rental. You can become a patron and get exclusive bonuses, as well as leave your mark on the hall of fame. Visit our <a href='/patreon' target='_blank'>Patreon</a> and become our sponsor to help develop the project.",
     "Page_Donate_Unconnected_Patreon": "If you can't see your donation here - you need to manually connect your Patreon account. <b>%s</b> generous patrons don't have their Patreon account linked to Creators.TF.",
     "Page_Donate_Patreon_Connection_Title": "Patreon Profile",
-    "Page_Donate_Patreon_Connection_Unconnected_Summary": "<a href=\"/patreon\" style=\"color:#fff; text-decoration: underline;\">Support us on Patreon</a> and connect your account to get different perks and leave your mark in the hall of fame.",
+    "Page_Donate_Patreon_Connection_Unconnected_Summary": "<a href=\"/patreon\" style=\"color:#fff; text-decoration: underline;\">Support us on Patreon</a> and connect your account to get different perks and leave your mark on the hall of fame.",
     "Page_Donate_Patreon_Connection_Unconnected_Title": "Patreon Connection",
     "Page_Donate_Patreon_Connection_Donated": "Donated <b>%s$</b> in total",
     "Page_Donate_Patreon_Connection_Unconnect_Button": "Disconnect",
