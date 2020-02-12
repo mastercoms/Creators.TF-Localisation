@@ -79,7 +79,7 @@
 
     "Page_OpenCase_Crate_Contents_Warning": "Essa caixa pode conter um desses itens:",
     "Page_OpenCase_Button_Unbox": "ABRIR ESTA CAIXA",
-    
+
     "Page_Scrap_Button_Scrap": "Transformar em Mann Moedas",
 
     "Page_Server_List_Timeout_Message": "Este servidor pode estar passando por problemas de conexão.",
@@ -107,7 +107,7 @@
     "Profile_Posts_By_Author": "Publicações do Autor",
     "Profile_Fake_Profile_Title": "Este perfil não é associado com a Steam.",
     "Profile_Fake_Profile_Text": "Isso significa que esta conta pode ser um perfil de blog da comunidade, que é gerenciado por membros da comunidade, ou a conta de um bot.",
-    
+
     "Post_By_Author": "Postado por",
 
     "Economy_Quality_Normal_Name": "Normal",
@@ -189,6 +189,29 @@
     "Economy_Item_Cold_Sweater_Desc": "Prepare-se para qualquer passeio!\nMontanhas? Sem problemas.\nParaquedismo? Fácil.\nOperações médicas bem precisas? Bom o suficiente.",
     "Economy_Item_Winter_Western_Name": "Inverno do Oeste",
     "Economy_Item_Winter_Western_Desc": "Você não vai morrer por causa de uma bala nas suas costas. Quando eu te pegar, Spy...\nYou hang!",
+
+    "Economy_Item_Feb2020_Crate_Name": "Caixa de Cosméticos Creators.TF Destrancada Vanilla de 2020",
+    "Economy_Item_Feb2020_Crate_Desc": "Contém 10 cosméticos feitos pela comunidade.",
+    "Economy_Item_TSC_Name": "Thrift Store Couture",
+    "Economy_Item_TSC_Desc": "Você tem ideia de como é difícil encontrar um terno Italiano customizado em um ermo?",
+    "Economy_Item_ETPOB_Name": "Pilar Monumental de Boinas",
+    "Economy_Item_ETPOB_Desc": "Na França, é costume pegar uma boina de cada pessoa que você derrotou num combate e vestir o máximo que conseguir para mostrar o quão Francês você é.",
+    "Economy_Item_The_Pocket_Pork_Name": "O Porco de Bolso",
+    "Economy_Item_The_Pocket_Pork_Desc": "Is there really anything better you could place in that oversized pocket of yours?ss",
+    "Economy_Item_Flame_Kindler_Name": "Acendedor de Chama",
+    "Economy_Item_Flame_Kindler_Desc": "Lil propane Tank called - Flame Kindler.",
+    "Economy_Item_Wok_Helmet_Name": "Chapéu de Wok",
+    "Economy_Item_Wok_Helmet_Desc": "",
+    "Economy_Item_The_Usual_Name": "O Comum",
+    "Economy_Item_The_Usual_Desc": "Are you noticing a surplus of cases in your inventory? Are you too scared of opening one with the thought of not getting an unusual?\nFear not! These repurposed cases are now the most luxury of hats available! One man's trash is another man's tophat!",
+    "Economy_Item_Tiny_Supplier_Name": "Supplier Minúsculo",
+    "Economy_Item_Tiny_Supplier_Desc": "",
+    "Economy_Item_Crazy_Noisy_Bizarre_Pomp_Name": "Crazy Noisy Bizarre Pomp",
+    "Economy_Item_Crazy_Noisy_Bizarre_Pomp_Desc": "These are great days to wear such a wacky haircut, the ladies might chase you for it!",
+    "Economy_Item_Der_Friedensarbeiter_Name": "Der Friedensarbeiter",
+    "Economy_Item_Der_Friedensarbeiter_Desc": "Não, esse não é o momento para o seu mundo totalmente pacífico.",
+    "Economy_Item_Shady_Business_Name": "Negócios Obscuros",
+    "Economy_Item_Shady_Business_Desc": "Lembre-se de olhar diretamente nos olhos quando estiver fazendo negócios.",
 
     "TFPage_Promo_Input_SteamID": "Coloque seu ID da Steam ou a URL do seu perfil",
     "TFPage_Promo_Select_Opt0": "Selecione ao que você se refere...",
