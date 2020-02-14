@@ -29,7 +29,7 @@
     "Navigation_Page_Index": "Página",
 
     "Error_Redirect": "Você deveria ter sido redirecionado, mas algo de errado ocorreu.",
-    "Error_Contact_Us": "Entre em contato conosco para ter ajuda",
+    "Error_Contact_Us": "Entre em contato conosco para receber ajuda",
     "Error_404_Title": "Conteúdo Não Encontrado",
     "Error_404_Content": "The requested material, unfortunately, was not found. Try changing the page address or return to the <a href='/'>main page.</a>",
     "Error_403_Title": "Permissão Negada",
@@ -167,7 +167,7 @@
     "Economy_Attribute_Item_Is_Gift": "Presenteado por: %s",
     "Economy_Attribute_Hidden_On_Production": "Este item é visível somente na área de desenvolvimento",
 
-    "Economy_Item_XMS2019_Crate_Name": "Caixa de Cosméticos Creators.TF Destrancada de Inverno de 2019",
+    "Economy_Item_XMS2019_Crate_Name": "Caixa de Cosméticos Destrancada da Coleção Self-Made Smissmas de 2019",
     "Economy_Item_XMS2019_Crate_Desc": "Contém 10 cosméticos feitos pela comunidade.",
     "Economy_Item_GBM_Name": "Mercenários de Sangue Cascalhado",
     "Economy_Item_GBM_Desc": "",
@@ -190,7 +190,7 @@
     "Economy_Item_Winter_Western_Name": "Inverno do Oeste",
     "Economy_Item_Winter_Western_Desc": "Você não vai morrer por causa de uma bala nas suas costas. Quando eu te pegar, Spy...\nYou hang!",
 
-    "Economy_Item_Feb2020_Crate_Name": "Caixa de Cosméticos Destrancada do Novo Começo de 2020",
+    "Economy_Item_Feb2020_Crate_Name": "Caixa de Cosméticos Destrancada da Coleção Novo Começo de 2020",
     "Economy_Item_Feb2020_Crate_Desc": "Contém 10 cosméticos feitos pela comunidade.",
     "Economy_Item_TSC_Name": "A Costura do Brechó",
     "Economy_Item_TSC_Desc": "Você tem ideia de como é difícil encontrar um terno Italiano customizado em um ermo?",
