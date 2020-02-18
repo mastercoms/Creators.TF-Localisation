@@ -104,10 +104,10 @@
 
     "General_Button_ApplyChanges": "Aplicar Mudanças",
     "General_Button_Connect": "Conectar",
-    "General_Button_Use": "Usar",
 
     "InventoryButton_Inventory": "Abrir Inventário",
-    
+
+    "Settings_ProfileSettings": "Configurações do Perfil",
     "Settings_Profile": "Perfil",
     "Settings_Privacy": "Privacidade",
     "Settings_Connections": "Conexões",
