@@ -105,7 +105,6 @@
     
     "General_Button_ApplyChanges": "Apply Changes",
     "General_Button_Connect": "Connect",
-    "General_Button_Use": "Use",
     
     "SocialMedia_Steam": "Steam",
     "SocialMedia_Twitter": "Twitter",
@@ -117,6 +116,7 @@
     "InventoryButton_BackToProfile": "Back to Profile",
     "InventoryButton_Inventory": "Open Inventory",
     
+    "Settings_ProfileSettings": "Profile Settings",
     "Settings_Profile": "Profile",
     "Settings_Privacy": "Privacy",
     "Settings_Connections": "Connections",
