@@ -99,6 +99,39 @@
     "Page_Store_Mann_Coins_Balance": "Your balance:",
 
     "Page_Loadout_Title": "Class Loadout",
+    
+    "Page_Title_Settings": "Settings",
+    "General_Inventory": "Inventory",
+    
+    "General_Button_ApplyChanges": "Apply Changes",
+    "General_Button_Connect": "Connect",
+    "General_Button_Use": "Use",
+    
+    "SocialMedia_Steam": "Steam",
+    "SocialMedia_Twitter": "Twitter",
+    "SocialMedia_Facebook": "Facebook",
+    "SocialMedia_Discord": "Discord",
+    "SocialMedia_Patreon": "Patreon",
+    "SocialMedia_YouTube": "YouTube",
+
+    "InventoryButton_BackToProfile": "Back to Profile",
+    "InventoryButton_Inventory": "Open Inventory",
+    
+    "Settings_Profile": "Profile",
+    "Settings_Privacy": "Privacy",
+    "Settings_Connections": "Connections",
+    
+    "ProfileSettings_EditYourBio": "Edit your bio",
+    "ProfileSettings_ChooseYourBadge": "Choose your badge",
+    
+    "ProfileSettings_PrivacyPublic": "Public - Everyone can see",
+    "ProfileSettings_PrivacyPrivate": "Private - No one can see (other than you)",
+    
+    "Settings_Connections_Steam_Description": "Steam Description",
+    "Settings_Connections_Twitter_Description": "Twitter Description",
+    "Settings_Connections_Discord_Description": "Discord Description",
+    "Settings_Connections_Patreon_Description": "Patreon Description",
+    "Settings_Connections_YouTube_Description": "YouTube Description",
 
     "Profile_Level": "Contributor level:",
     "Profile_Verified": "This profile is officially verified by the site administration.",
