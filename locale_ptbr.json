@@ -114,15 +114,10 @@
     
     "ProfileSettings_EditYourBio": "Altere sua bio",
     "ProfileSettings_ChooseYourBadge": "Escolha sua insígnia",
-    
     "ProfileSettings_PrivacyPublic": "Público - Todo mundo pode ver",
     "ProfileSettings_PrivacyPrivate": "Privado - Ninguém pode ver (além de você)",
     
-    "Settings_Connections_Steam_Description": "Steam Description",
-    "Settings_Connections_Twitter_Description": "Twitter Description",
-    "Settings_Connections_Discord_Description": "Discord Description",
-    "Settings_Connections_Patreon_Description": "Patreon Description",
-    "Settings_Connections_YouTube_Description": "YouTube Description",
+    "Settings_Connections_Description": "Description Here",
 
     "Profile_Level": "Nível de Contribuidor:",
     "Profile_Verified": "Esse perfil foi oficialmente verificado pela administração do site.",
